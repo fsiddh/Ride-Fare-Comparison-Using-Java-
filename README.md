@@ -24,4 +24,4 @@ By following the steps given below you can use the Web app according to your sea
 2.  Then deploy newhome.html in your respective system.
 
 
-Note: In order to deploy this project completely you have to create your database according to source code of the project.
+<strong>Note:</strong> In order to deploy this project completely you have to create your database according to source code of the project.
